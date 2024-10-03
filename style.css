@@ -1,0 +1,47 @@
+table{
+    border-collapse: collapse;
+}
+table, td{
+    border: 2px solid black;
+}
+
+.mainTable{
+    width:100%;
+}
+
+h2.elementDescription{    
+    text-align: center;
+    padding: 20px;    
+}
+.element1{
+    width: 100%;
+    height: 150px;    
+    background-color: yellow;
+}
+.inner1{
+    width: 40%;
+    height: 80px;
+    background-color: white;
+    margin: 35px;
+}
+.element2{
+    width: 30%;
+    height: 600px;
+    background-color: blue;
+}
+.element3{
+    margin: 20px;
+    width: 48%;
+    height: 560px;
+    float: left;
+}
+table.element3 tr:last-child{
+    height: 80px;
+    background-color: tomato;
+}
+.element4{
+    margin: 20px;
+    width: 48%;
+    height: 560px;
+    background-color: blue;
+}
