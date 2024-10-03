@@ -30,7 +30,10 @@ h2.elementDescription{
     background-color: blue;
 }
 .element3{
-    margin: 20px;
+    margin-top: 7px;
+    margin-left: 1%;
+    margin-right: 2%;    
+
     width: 48%;
     height: 560px;
     float: left;
@@ -40,7 +43,7 @@ table.element3 tr:last-child{
     background-color: tomato;
 }
 .element4{
-    margin: 20px;
+    margin-top: 7px;     
     width: 48%;
     height: 560px;
     background-color: blue;
